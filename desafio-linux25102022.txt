@@ -5,23 +5,23 @@
 #TEMPO POIS VAI TRAVAR A MÁQUINA VIRTUAL.
 
 #01_ Instalação dos Navegadores (Recomendo via Gdebi)
-	_a - Google Chrome;
-	_b - Opera;
-	_c - Microsoft Edge;
-	_d - Vivaldi;
+	_a - Google Chrome; - Ok
+	_b - Opera; - Ok
+	_c - Microsoft Edge; Ok
+	_d - Vivaldi; - Baixado/Instalado
 	_e - Tor;
-	_f - Brave.
+	_f - Brave. - 
 	
 #02_ Instalação do suporte ao TTF (TrueType Fonts)
-	a_ Ttf-mscorefonts (Gerenciador de Aplicativos)
+	a_ Ttf-mscorefonts (Gerenciador de Aplicativos) - Baixado/Instalado
 
 #03_ Instalação dos Pacote Office
-	_a - WPS Office for Linux (Recomendo via Gdebi)
-	_c - FreeOffice for Linux (Recomendo via Gdebi)
+	_a - WPS Office for Linux (Recomendo via Gdebi) Baixado/Instalado
+	_c - FreeOffice for Linux (Recomendo via Gdebi) 
 	_d - OnlyOffice Desktop for Linux (Recomendo AppImagem)
-	_e - Microsoft Teams for Linux (Recomendo via Gdebi)
+	_e - Microsoft Teams for Linux (Recomendo via Gdebi) 
 	_f - Skype for Linux (Recomendo via Gdebi)
-	_g - KolourPaint (Gerenciador de Aplicativo)
+	_g - KolourPaint (Gerenciador de Aplicativo) Baixado/Instalado.
 
 #04_ Instalação dos Editores de Texto para Desenvolvimento
 	_a - Visual Studio Code for Linux (Recomendo via Gdebi)
