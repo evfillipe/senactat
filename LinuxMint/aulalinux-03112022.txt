@@ -1,0 +1,38 @@
+terminal: Ctrl + Alt + T - Bash
+senac = seu usuário
+@     = concatenar
+senac!! nome do computador 
+---------------------------------------------------
+~     =alias referência ao seu nome
+$     = referência ao seu usuário sem direito
+#     =super usuário ---> root: sudo
+---------------------------------------------------
+sudo - i()
+exit    (sair, atalho Ctrl + D/logout)
+history (histórico de comandos)
+!41     (Executar o comando na linha do history)
+clear   (limpar a tela, atalho Ctrl + L) 
+----------------------------------------------------
+Pedir ajuda no Linux
+apt        (ajuda simples) 
+apt --help (ajuda resumida do comando)
+man apt    (manual do comando) 
+q          (Quit)
+----------------------------------------------------
+
+Guia Foca -PT-BR - https://www.guiafoca.org/guiaonline/inicianteintermediario/
+ss64      -EN - https://ss64.com/bash/
+
+----------------------------------------------------
+Comandos de Diretórios e Arquivos 
+
+git clone  (Clonar diretórios do Git Hub)
+ls         (listar arquivos ou diretórios)
+ls-lh      (modo lista detalhada)  
+cd         (mudar de diretório)
+TAB        (Tabulador: Auto completar)
+cd ..      (voltar um diretório)
+
+
+   
+
