@@ -33,6 +33,5 @@ cd         (mudar de diretório)
 TAB        (Tabulador: Auto completar)
 cd ..      (voltar um diretório)
 
-
    
 
