@@ -11,3 +11,6 @@ cls
 C - 192.168.X.NºPC (254 Pcs)
 A - 10.NºPC.NºPC.NºPC (16.777.214 PCs)
 B - 172.16.0 até 31.NºPC ( 16.534 Pcs)
+
+net send (IP ou nomePC) mensagem 
+Iniciar>> Meu computador>> Gerenciar >> Gerenciador de arquivos >> Mensageiro >>  Automático>> Iniciar 
