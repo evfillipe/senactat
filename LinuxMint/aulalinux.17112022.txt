@@ -1,0 +1,24 @@
+#Comando de Mover (Renomear)
+mv -v ORIGEM DESTINO
+
+#Comando de Copiar 
+cp -v ORIGEM DESTINO
+
+#Comando de Imprimir mensagem na Tela 
+echo SENAC Tatuapé 
+echo SENAC Tatuapé > SENAC.txt
+
+Manipulação de Entrada e Saída
+(Entrada padrão Teclado/Mouse)
+(Saída padrão Monitor)
+
+#COMANDO PARA LISTAR O CONTEÚDO DO ARQUIVO 
+cat -n
+cat -n/etc/services 
+
+#Comando para listar o conteúdo do arquivo, 
+#mas posso escolher as linhas 
+
+head /etc/service (Só mostra as 10 primeiras linhas do arquivo) 
+
+tail /etc/service (final do arquivo)
